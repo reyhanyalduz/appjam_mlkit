@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328345653057",
+    "project_id": "flutter66appjam",
+    "storage_bucket": "flutter66appjam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328345653057:android:9445419b9d9cbc15735bc0",
+        "android_client_info": {
+          "package_name": "com.example.appjam_mlkit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKMfFWwI684_zj4az5PYyXtO8MUQBzILU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
